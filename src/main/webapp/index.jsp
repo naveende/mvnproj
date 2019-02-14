@@ -9,8 +9,18 @@
         <h1>Demo Project from Devops</h1>
         <h1>Good day DEVOPS.....</h1>
 	<h1>hello from jenkins!</h1>
-       
-
+	<h1>this is table code</1>
+	<table border="1">
+	<tr>
+	<th>Table Header</th><th>Table Header</th>
+	</tr>
+	<tr>
+	<td>Table cell 1</td><td>Table cell 2</td>
+	</tr>
+	<tr>
+	<td>Table cell 3</td><td>Table cell 4</td>
+	</tr>
+	</table>
 <table width="50%" bgcolor="pink" align="center" border="2">
 
 <tr>
